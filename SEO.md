@@ -10,7 +10,7 @@ Mesin pencari menggunakan bot (misalnya *Googlebot*) untuk “menjelajahi” web
 Bot ini mulai dari satu halaman — misalnya `mypage.com/home` — lalu mengikuti semua tautan (link) di dalamnya untuk menemukan halaman lain seperti `/about`, `/contact`, dan seterusnya.
 
 Kalau kamu punya `sitemap.xml`, itu seperti peta yang mempermudah bot mengetahui struktur situsmu.
-Jika tidak ada tautan internal yang baik, halaman tertentu bisa “tersembunyi” dan tidak terindeks.
+Jika tidak ada tautan internal yang `baik`, halaman tertentu bisa “tersembunyi” dan tidak terindeks.
 
 ### 1. **Bot memang “menjelajahi” web seperti penjelajah sungguhan**
 
